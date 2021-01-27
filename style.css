@@ -1,0 +1,98 @@
+body{
+    background-image:url("img/back.jpg");
+}
+.center-page{
+    background-color:black;
+    width:800px;
+    height:700px;
+    position: absolute;
+    margin-left:300px;
+}
+
+.menu{
+    background-color:rgb(8, 8, 8);
+    width:20%;
+    margin-left:10px;
+    height:660px;
+}
+.menu li{
+    text-transform:uppercase;
+    font-style:italic;
+    background-color:black;
+    list-style:none;
+    margin-bottom:70px;
+}
+.menu li:hover{
+    text-transform:uppercase;
+    font-size:20px;
+    font-style:italic;
+    background-color:black;
+    list-style:none;
+    margin-bottom:70px;
+}
+.menu a{
+    color: white;
+    text-decoration:none;
+}
+.menu a:hover{
+    color:rgb(6, 105, 6);
+    text-decoration:none;
+}
+
+.link img{
+    margin-top:210px;
+    margin-left:5px;
+}
+
+.link img{
+    margin-left:2px;
+    border-radius: 35%;
+}
+h1{
+    color:white;
+    font-size:50px;
+    margin-left:30px;
+    font-family:'Times New Roman;
+}
+h2{
+    color:rgb(197, 197, 197);
+    font-size: 22px;
+    margin-left:20px;
+    margin-top:100px;
+}
+.about-me{
+    background-color:rgb(10, 10, 10);
+    width:500px;
+    height:650px;
+    float:right;
+    margin-right:60px;
+    margin-top:25px;
+}
+.text{
+    height:200px;
+    
+}
+.age{
+   
+    width:300px;
+    margin-left: 45px;
+    margin-top:-20px;
+}
+h3{
+    color:rgb(6, 105, 6);
+}
+.h3-education{
+    margin-left:50px;
+    margin-top: -25px;
+}
+
+.text li{
+    padding:5%;
+    color: white;
+    font-size:20px;
+
+}
+
+.explain{
+    font-size: 15px;
+}
